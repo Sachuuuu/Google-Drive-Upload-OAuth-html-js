@@ -8,3 +8,5 @@ Download and install either xampp, wampp to run the application in your local ma
 Clone the repo or download the zip file and put it inside htdocs folder.
 
 Navigate to localhost/Google-Drive-Upload-OAuth-html-js in the browser.
+
+Link for the Blog post: https://sachithasa.wixsite.com/drtech/post/web-application-to-upload-files-to-google-drive-using-oauth
