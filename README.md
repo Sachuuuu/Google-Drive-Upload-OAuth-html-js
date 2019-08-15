@@ -5,7 +5,7 @@ Installation and Running Application
 
 Download and install either xampp, wampp to run the application in your local machine.
 
-Clone the repo or download the zip file and put it inside htdocs folder.
+Clone the repo or download the zip file and put it inside htdocs folder and rename it as "Google".
 
 Navigate to localhost/Google-Drive-Upload-OAuth-html-js in the browser.
 
